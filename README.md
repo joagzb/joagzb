@@ -46,4 +46,7 @@ Data engineering skills for building data pipelines in Python, using Apache Spar
   <!-- @@@ Top Languages Card -->
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joagzb&layout=donut&size_weight=0.5&count_weight=0.5&hide_border=true)](https://github.com/joagzb)
 
+![Top Langs by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joagzb&theme=vue)
+
+![Top Langs by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joagzb)
 </div>
